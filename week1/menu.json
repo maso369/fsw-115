@@ -1,0 +1,75 @@
+{
+    "menu":[
+        {
+            "appetizers":[
+                {
+                    "name":"chips",
+                    "ingredients":["potatoes","salt", "canola oil"],
+                    "description":"irresistable crispy chips!"
+                },
+                {
+                    "name":"chocolate chip cookies",
+                    "ingredients":["sugar","eggs","flour","chocolate chips"],
+                    "description":"soft gooey chocolate chip cookies!"
+                }
+            ]
+            
+        },
+        {
+            "cold sandwiches": [
+                {
+                    "name":"club sandwiches",
+                    "ingredients":["bread", "mayo","lettuce","tomato","ham","turkey","sharp cheddar"],
+                    "description":"delicious  club sandwich w/ free drink"
+                },
+                {
+                    "name":"ham on rye",
+                    "ingredients":["ham","mayo","lettuce","tomato","rye bread"],
+                    "description":"delicious ham on rye w/ free drink"
+                }
+            ]
+        },
+        {
+            "hot sandwiches": [
+                {
+                    "name":"italian sub",
+                    "ingredients":["bread", "mayo","lettuce","tomato","pastrami","turkey","sharp cheddar","black pepper"],
+                    "description":"delicious italian sub w/ free drink"
+                },
+                {
+                    "name":"tuna melt",
+                    "ingredients":["tuna","mayo","cilantro","rye bread"],
+                    "description":"delicious tuna melt w/ free drink"
+                }
+            ]
+        },
+        {
+            "desserts": [
+                {
+                    "name":"chocolate pudding",
+                    "ingredients":["water", "pudding mix"],
+                    "description":"sweet delicious chocolate pudding"
+                },
+                {
+                    "name":"fruit",
+                    "ingredients":["assorted fruits"],
+                    "description":"a large selection of fresh fruits"
+                }
+            ]
+        },
+        {
+            "drinks": [
+                {
+                    "name":"water",
+                    "ingredients":["water"],
+                    "description":"purified spring water"
+                },
+                {
+                    "name":"sweet tea",
+                    "ingredients":["sugar","water","black tea"],
+                    "description":"delicious homemade sweet tea"
+                }
+            ]
+        }
+    ]
+}
