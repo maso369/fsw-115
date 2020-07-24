@@ -1,0 +1,12 @@
+h4{
+    border: solid blue 2px;
+    font-style:normal;
+}
+h3{
+    border: solid purple 2px;
+    font-style:normal;
+}
+h5{
+    border: solid black 2px;
+    font-style: italic;
+}
